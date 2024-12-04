@@ -4,7 +4,7 @@ import KanbanBoard from "./components/KanbanBoard";
 const App = () => {
   return (
     <div>
-      <h1>Monika Barkeshya 20IE35001</h1>
+      <h1>Monika Barkesya 20IE35001</h1>
       <KanbanBoard />
     </div>
   );
